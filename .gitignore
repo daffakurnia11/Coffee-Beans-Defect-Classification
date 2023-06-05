@@ -1,2 +1,6 @@
 Augmentation
 Source
+alexnet-coffee-defect-state-dict.pth
+resnet50-coffee-defect-state-dict.pth
+resnet50-coffee-defect.pth
+alexnet-coffee-defect.pth
